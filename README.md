@@ -3,9 +3,9 @@ This project contains an in-depth analysis of MLB attendance data with the aim o
 
 Usage:
 
-Clone the repository https://github.com/aramirez209/Using-Data-to-Improve-MLB-Attendance
+  1. Clone the repository https://github.com/aramirez209/Using-Data-to-Improve-MLB-Attendance
 
-Run the R system
+  2. Run the R system
 
 Contributing: Analya Ramirez
 
